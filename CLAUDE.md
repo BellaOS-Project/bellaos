@@ -19,6 +19,6 @@ O planejamento completo (filosofia, decisões, recursos) fica no Notion do proje
 - RPM na imagem só quando precisa de acesso ao sistema (drivers, serviços).
 
 ## Uso de IA
-- Commits feitos com IA ficam marcados (Co-Authored-By).
+- O uso de IA é declarado em `AI_USAGE.md` (atualize a tabela quando uma parte nova usar IA). Commits não levam a linha Co-Authored-By.
 - Toda mudança de visual/design é registrada em `DESIGN_LOG.md` (referência, opções, o que o autor escolheu).
 - Arte (logo, mascote) é feita pelo autor, não pela IA.
